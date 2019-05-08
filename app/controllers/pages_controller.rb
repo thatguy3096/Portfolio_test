@@ -3,8 +3,11 @@ class PagesController < ApplicationController
   end
   def portfolio
   end
+<<<<<<< HEAD
   def about
   end
   def contact
   end
+=======
+>>>>>>> origin/master
 end
